@@ -1,0 +1,18 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 18 Sep 2020 12:03:24 at https://legittechreviews.com/easywaxoff/review/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://legittechreviews.com/easywaxoff/review/ -O1 "C:\My Web Sites\easywax" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:04:56	Warning: 	Retry after error 500 (Internal Server Error) at link https://legittechreviews.com/easywaxoff/review/xmlrpc0db0.php?rsd (from https://legittechreviews.com/easywaxoff/review/)
+12:04:56	Error: 	"Not Found" (404) at link https://legittechreviews.com/easywaxoff/www.google-analytics.com/analytics.js (from https://legittechreviews.com/easywaxoff/review/)
+12:04:56	Warning: 	Link https://legittechreviews.com/easywaxoff/review/terms-of-business/index.html not scanned (follow robots meta tag)
+12:04:56	Warning: 	Link https://legittechreviews.com/easywaxoff/review/privacy-policy/index.html not scanned (follow robots meta tag)
+12:04:56	Warning: 	Link https://legittechreviews.com/easywaxoff/review/contact/index.html not scanned (follow robots meta tag)
+12:04:57	Warning: 	Retry after error 500 () at link https://legittechreviews.com/easywaxoff/review/xmlrpc0db0.php?rsd (from https://legittechreviews.com/easywaxoff/review/)
+12:04:57	Error: 	"" (500) after 2 retries at link https://legittechreviews.com/easywaxoff/review/xmlrpc0db0.php?rsd (from https://legittechreviews.com/easywaxoff/review/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 33 seconds : 76 links scanned, 71 files written (8113554 bytes overall) [7923743 bytes received at 85201 bytes/sec], 257037 bytes transferred using HTTP compression in 6 files, ratio 20%
+(2 errors, 5 warnings, 0 messages)
